@@ -160,7 +160,6 @@ body {
     color: var(--small-text);
     font-weight: 700; }
     .head__item--image img {
-      width: 1.8rem;
       padding-right: 1rem; }
   .head__item--header {
     display: flex;
